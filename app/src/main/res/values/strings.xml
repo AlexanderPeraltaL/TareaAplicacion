@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ClaseTres</string>
+    <string name="LadoUno">Lado Uno</string>
+    <string name="LadoDos">Lado Dos</string>
+    <string name="LadoTres">Lado Tres</string>
+    <string name="BotonCalcular">Calcular</string>
+    <string name="Resultado">El resultado es:</string>
+    <string name="BotonGoogle">Abrir Google</string>
+    <string name="BotonAlarma">Crear alarma</string>
+    <string name="BotonLlamada">Hacer Llamada</string>
+
+
+</resources>
